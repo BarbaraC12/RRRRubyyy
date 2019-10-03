@@ -1,5 +1,5 @@
-Exercices Ruby 3 octobre 2019 a Toulouse 
-contributeurs : Barbara Cano, Koudjo, Mahmoud Chazli, SarahB, Arnaud Astouri
+Exercices Ruby October 3rd 2019 from Toulouse 
+contributor : Barbara Cano, Koudjo, Mahmoud Chazli, SarahB, Arnaud Astouri
 
 The file ib/00_hello.rb consists to have a program that asks the user his name and say hello.
 
