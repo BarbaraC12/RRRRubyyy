@@ -1,11 +1,11 @@
-def signup #return
-	puts "Choose one password:"
+def signup 
+	puts "Choose one password please :"
 	print ">"
 	password = gets.chomp
 	return password
 end
 
-def login #while
+def login 
 	puts "Welcome! Tape your password:"
 	log = gets.chomp
 	return log
@@ -17,7 +17,7 @@ def welcome_screen (log, password)
 		log = gets.chomp
 	end
 	if log == password
-		puts "Welcome User_968 !"
+		puts "Welcome Master, in your secret zone !!!!"
 	end
 end
 
